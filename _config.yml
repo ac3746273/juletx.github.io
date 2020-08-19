@@ -29,21 +29,21 @@ projects:
     # - repo-name
 
 social_media:
+  website: https://julenetxaniz.eus
+  linkedin: juletxara
+  twitter: juletxara
+  instagram: juletxara
+  facebook: juletxara
+  stackoverflow: 12519473
+  hackerrank: juletxara
   # behance: your_username
   # dribbble: your_username
-  facebook: juletxara
-  hackerrank: juletxara
-  instagram: juletxara
   # keybase: your_username
-  linkedin: juletxara
   # mastodon: your_username
   # medium: your_username
-  stackoverflow: 12519473
   # telegram: your_username
-  twitter: juletxara
   # unsplash: your_username
   # vk: your_username
-  website: https://juletx.github.io
   # youtube: your_username
 
 topics:
