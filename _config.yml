@@ -49,19 +49,19 @@ social_media:
 topics:
   - name: Java
     web_url: https://github.com/topics/java
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/java/java-original-wordmark.svg
 
   - name: JavaScript
     web_url: https://github.com/topics/javascript
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/javascript/javascript-original.svg
 
   - name: PHP
     web_url: https://github.com/topics/php
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/php/php-original.svg
 
   - name: Python
     web_url: https://github.com/topics/python
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/python/python-original.svg
 
   - name: SQL
     web_url: https://github.com/topics/sql
@@ -69,15 +69,15 @@ topics:
 
   - name: HTML
     web_url: https://github.com/topics/html
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/html5/html5-original-wordmark.svg
 
   - name: CSS
     web_url: https://github.com/topics/css
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/css3/css3-original-wordmark.svg
 
   - name: Bootstrap
     web_url: https://github.com/topics/bootstrap
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/bootstrap/bootstrap-plain.svg
 
   - name: Xamarin
     web_url: https://github.com/topics/xamarin
@@ -85,19 +85,19 @@ topics:
 
   - name: MySQL
     web_url: https://github.com/topics/mysql
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/mysql/mysql-original-wordmark.svg
 
   - name: Oracle
     web_url: https://github.com/topics/oracle
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/oracle/oracle-original.svg
 
   - name: Django
     web_url: https://github.com/topics/django
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/django/django-original.svg
 
   - name: .NET
     web_url: https://github.com/topics/donet
-    image_url: https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg
+    image_url: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/dot-net/dot-net-original-wordmark.svg
 
   - name: Hugo
     web_url: https://github.com/topics/hugo
